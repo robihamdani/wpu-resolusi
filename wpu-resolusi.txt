@@ -1,0 +1,4 @@
+wpu resolusi
+- konsisten koding setiap hari
+- membuat platform untuk pengelolaan video
+- membuat forum diskusi
